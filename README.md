@@ -225,4 +225,4 @@ spring.jpa.hibernate.naming.implicit-strategy=org.hibernate.boot.model.naming.Im
 | Quản lý phiên bản trên GitHub | Hoàn thành | Push sạch sẽ, commit chuẩn format |
 
 ---
-*© 2026 Đỗ Thành Tài - HCMUTE. All rights reserved.*
+
